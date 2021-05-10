@@ -3,19 +3,19 @@ const entities = [
     city: "Rostov-on-Don <br>LCD Admiral",
     area: "81 m2",
     time: "3.5 months",
-    img: "../img/project-example1.png",
+    img: "./img/project-example1.png",
   },
   {
     city: "Sochi <br>Thieves",
     area: "105 m2",
     time: "4 months",
-    img: "../img/project-example2.png",
+    img: "./img/project-example2.png",
   },
   {
     city: "Rostov-on-Don <br>Patriotic",
     area: "93 m2",
     time: "3 months",
-    img: "../img/project-example3.png",
+    img: "./img/project-example3.png",
   },
 ];
 
